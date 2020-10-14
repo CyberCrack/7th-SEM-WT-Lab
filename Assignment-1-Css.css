@@ -1,0 +1,27 @@
+.externalCss {
+    color: chartreuse;
+}
+
+.boxes {
+    border: 2px solid powderblue;
+}
+
+.paddingEg {
+    border: 2px solid powderblue;
+    padding: 30px;
+}
+
+.marginEg {
+    border: 2px solid powderblue;
+    margin: 50px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 5px;
+    text-align: left;
+}
