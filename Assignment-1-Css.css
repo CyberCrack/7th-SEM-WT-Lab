@@ -25,3 +25,25 @@ th, td {
     padding: 5px;
     text-align: left;
 }
+
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    top: 0;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+
+.footer {
+    padding: 20px;
+    text-align: center;
+    background: #ddd;
+}
